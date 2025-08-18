@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\admin",
+    "\\assets",
+    "\\_data",
+    "\\_pages",
+    "\\_posts"
   ],
+  "SelectedNode": "\\_posts\\2010-01-07-post-modified.md",
   "PreviewInSolutionExplorer": false
 }
