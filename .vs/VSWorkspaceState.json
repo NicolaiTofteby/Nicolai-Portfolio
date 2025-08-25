@@ -3,10 +3,12 @@
     "",
     "\\admin",
     "\\assets",
+    "\\assets\\images",
+    "\\assets\\uploads",
     "\\_data",
     "\\_pages",
     "\\_posts"
   ],
-  "SelectedNode": "\\_posts\\2010-01-07-post-modified.md",
+  "SelectedNode": "\\admin\\index.html",
   "PreviewInSolutionExplorer": false
 }
