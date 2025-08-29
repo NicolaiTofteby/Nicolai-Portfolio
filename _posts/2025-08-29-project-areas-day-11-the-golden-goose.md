@@ -1,5 +1,5 @@
 ---
-title: Project Areas Day 11 - The Golden Goose
+title: Project Ares Day 11 - Daily dose of Assets
 date: 2025-08-25T07:39:45.498Z
 image: /assets/uploads/day-6.jpg
 ---
