@@ -35,10 +35,10 @@ I﻿ could probably have shortened the work and done it all today but I am still
 
 ## L﻿inks and Sources:
 
-![](/assets/uploads/day-18.jpg)
-
 https://www.interaction-design.org/literature/topics/visual-cues
 
 https://theartyteacher.com/what-is-differentiation-in-art/
 
 https://docs.godotengine.org/en/stable/tutorials/editor/customizing_editor.html
+
+![](/assets/uploads/day-18.jpg)
