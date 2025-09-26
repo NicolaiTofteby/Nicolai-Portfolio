@@ -1,6 +1,6 @@
 ---
 title: Project Ares Day 36 - Internet again and profiler showing promise
-date: 2025-09-26T07:39:03.826Z
+date: 2025-09-14T13:39:03.826Z
 image: /assets/uploads/day-36.png
 ---
 ## W﻿hat’s been happening since last time?[](https://nicolaitofteby-portfolio.netlify.app/project-ares-day-25-enemy-pooling/#whats-been-happening-since-last-time "Permalink")
