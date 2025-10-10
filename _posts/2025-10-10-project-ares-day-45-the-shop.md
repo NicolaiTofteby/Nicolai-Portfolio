@@ -1,5 +1,5 @@
 ---
-title: Project Ares Day 45 - The Shop
+title: Project Ares Day 53 - The Shop
 date: 2025-10-03T08:04:29.581Z
 image: /assets/uploads/day-53.jpg
 ---
