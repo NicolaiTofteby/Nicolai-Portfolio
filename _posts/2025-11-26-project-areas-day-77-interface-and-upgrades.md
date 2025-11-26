@@ -1,33 +1,56 @@
 ---
-title: Project Areas Day 77 - Interface and upgrades
-date: 2025-11-26T16:25:32.426Z
-image: /assets/uploads/day-1.jpg
+title: Project Areas Day 88 - Documentation
+date: 2025-11-07T16:59:56.788Z
+image: /assets/uploads/day-32.jpg
 ---
 ## W﻿hat’s been happening since last time?[](https://nicolaitofteby-portfolio.netlify.app/project-ares-day-25-enemy-pooling/#whats-been-happening-since-last-time "Permalink")
 
-Since last time, I continued developing and refining the user interface and upgrade system in our project. I also started working on collecting player feedback by creating a Google Form with structured questions about the gameplay experience, UI clarity, and overall game feel. This helped me focus on understanding how players interact with what we have built and how we can improve it further.
+Since last time, I worked on expanding the documentation and theory behind the upgrade system in our game. I focused specifically on how to break down upgrades into deeper technical and design concepts for my exam. I also reviewed our earlier development work and reorganized it so the theoretical explanations match what we actually built in the game.
 
 ## W﻿hat have I learned?[](https://nicolaitofteby-portfolio.netlify.app/project-ares-day-25-enemy-pooling/#what-have-i-learned "Permalink")
 
-This week, I learned how to design effective feedback questions that give useful information rather than just opinions. I understood how important it is to ask specific, guided questions so we can actually use the feedback to make improvements. I also strengthened my understanding of UI/UX principles through iteration. As I reorganised and evaluated our UI layout, I learned how small changes like button placement or visual grouping can help the player navigate and understand the game more intuitively. On top of that, I improved my ability to break down game mechanics (like upgrades) into clear categories and describe them using proper terminology for exams and documentation.
+This week, I learned how to describe game mechanics in a more advanced and academic way. Instead of only explaining what an upgrade does, I practiced connecting it to theory such as:
+
+* **Game loops**
+* **Progression systems**
+* **Player agency**
+* **Balancing and tuning**
+* **Reward systems**
+
+I also learned to separate the subject areas more clearly — for example, writing specifically about **UI/UX**, **Gamification**, and **Game Development** as three distinct sections. This made my explanations clearer and more structured.
+
+Additionally, I gained more confidence in using proper terminology (e.g., *feedback systems, affordances, visual hierarchy, player incentives,* etc.), which is important for my exam.
 
 ## What challenges did I face[](https://nicolaitofteby-portfolio.netlify.app/project-ares-day-25-enemy-pooling/#what-challenges-did-i-face "Permalink")
 
-A challenge this week was figuring out how to ask the right questions for the Google Form so we could get constructive feedback rather than vague answers. Balancing simplicity with depth was harder than expected. Another challenge was identifying weaknesses in our UI without overthinking every tiny detail. It can be difficult to judge your own design work, so collecting outside feedback became necessary. Finally, organizing the upgrade system explanations for exam preparation took time because I needed to connect our practical work to theoretical concepts.
+One of the challenges this week was figuring out how to “go deep” when explaining upgrades. It’s easy to describe what they do, but much harder to bring in theory and show understanding of why they matter for player experience. 
+
+Another challenge was deciding which game development terms were most relevant and how to use them correctly while still keeping the explanation readable. 
+
+Lastly, separating UI/UX from Gamification and Game Development was harder than expected because they overlap  but breaking them apart improved the structure of my documentation.
 
 ## U﻿I / UX and Gamification[](https://nicolaitofteby-portfolio.netlify.app/project-ares-day-25-enemy-pooling/#ui--ux-and-gamification "Permalink")
 
-For UI/UX, I focused on improving clarity and structure. The upgrade lists, icons, and layout were reviewed to ensure players can quickly understand what each upgrade does. I also looked at consistency making sure similar elements follow the same visual logic. 
+In UI/UX, I worked on describing interface elements in more detail — how players identify upgrades, how labels and icons help with clarity, and how the layout affects navigation.
 
-From a gamification perspective, I ensured that upgrades still align with player motivation loops. Clear progression, rewarding feedback, and visible improvement are key parts of keeping players engaged. The feedback form also ties into gamification because it helps us understand how players perceive progress, challenge, and rewards.
+In Gamification, I focused on the motivational impact of upgrades:\
+how they support player progression, how rewards are paced, and how they enhance the core feedback loop.
+
+I also examined how our upgrade system keeps players engaged by offering visible and meaningful improvements.
 
 ## W﻿hat I plan to do next:[](https://nicolaitofteby-portfolio.netlify.app/project-ares-day-25-enemy-pooling/#what-i-plan-to-do-next "Permalink")
 
-Next, I will review the player feedback once responses come in and identify areas where the game can be improved. I also plan to refine older parts of our design and prepare more detailed documentation for my exam. If possible, I want to expand the upgrade descriptions and polish the UI flow even more.
+Next, I plan to refine my documentation even more and start preparing the design explanations I will need for the exam.\
+I also want to finish polishing the upgrade descriptions so they are clear, structured, and tied to relevant theory.
+
+After that, I will continue improving the game design elements we already created and apply the terminology directly to our project.
 
 ## R﻿eflections:[](https://nicolaitofteby-portfolio.netlify.app/project-ares-day-25-enemy-pooling/#reflections "Permalink")
 
-This week showed me how valuable player feedback is for improving both gameplay and UI/UX. It also helped me recognise that collecting and analyzing feedback is a skill in itself  one that is essential for professional game development. Overall, the work strengthened my understanding of how design, user experience, and player psychology are connected.
+This week helped me understand how important it is to communicate game design clearly.\
+Knowing how to explain *why* something is designed in a certain way shows deeper understanding than just describing *what* it is.
+
+I also realized that strong documentation helps me organize my thoughts and makes the exam process much easier.
 
 ## L﻿inks and Sources:
 
